@@ -1,0 +1,91 @@
+{
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "flags": {},
+  "imageData": null,
+  "imageHeight": 3000,
+  "imagePath": "1666086842454.jpg",
+  "imageWidth": 4000,
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "shapes": [
+    {
+      "fill_color": null,
+      "flags": {},
+      "id": 0,
+      "label": "placa",
+      "line_color": [
+        106,
+        7,
+        8,
+        255
+      ],
+      "points": [
+        [
+          1586.43216080402,
+          1472.361809045226
+        ],
+        [
+          1584.924623115578,
+          1489.9497487437188
+        ]
+      ],
+      "shape_type": "circle"
+    },
+    {
+      "fill_color": null,
+      "flags": {},
+      "id": 1,
+      "label": "placa",
+      "line_color": [
+        254,
+        59,
+        112,
+        255
+      ],
+      "points": [
+        [
+          1569.3467336683416,
+          1526.1306532663316
+        ],
+        [
+          1569.3467336683416,
+          1544.7236180904524
+        ]
+      ],
+      "shape_type": "circle"
+    },
+    {
+      "fill_color": null,
+      "flags": {},
+      "id": 2,
+      "label": "placa",
+      "line_color": [
+        171,
+        168,
+        39,
+        255
+      ],
+      "points": [
+        [
+          1590.4522613065328,
+          1571.356783919598
+        ],
+        [
+          1592.4623115577888,
+          1591.4572864321608
+        ]
+      ],
+      "shape_type": "circle"
+    }
+  ],
+  "version": "3.17.2"
+}
